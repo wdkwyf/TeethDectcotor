@@ -1,0 +1,6 @@
+model_checkpoint_path: "F:\\Projects\\Python\\teethDetector\\model\\train\\model.ckpt-61509"
+all_model_checkpoint_paths: "F:\\Projects\\Python\\teethDetector\\model\\train\\model.ckpt-59810"
+all_model_checkpoint_paths: "F:\\Projects\\Python\\teethDetector\\model\\train\\model.ckpt-60237"
+all_model_checkpoint_paths: "F:\\Projects\\Python\\teethDetector\\model\\train\\model.ckpt-60664"
+all_model_checkpoint_paths: "F:\\Projects\\Python\\teethDetector\\model\\train\\model.ckpt-61088"
+all_model_checkpoint_paths: "F:\\Projects\\Python\\teethDetector\\model\\train\\model.ckpt-61509"

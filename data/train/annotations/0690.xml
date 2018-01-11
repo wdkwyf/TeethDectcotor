@@ -1,0 +1,26 @@
+<annotation>
+	<folder>test1</folder>
+	<filename>0690.jpg</filename>
+	<path>/Users/wuyufei/Documents/MATLAB/image/test1/0690.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>954</width>
+		<height>338</height>
+		<depth>1</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>8</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>696</xmin>
+			<ymin>93</ymin>
+			<xmax>807</xmax>
+			<ymax>226</ymax>
+		</bndbox>
+	</object>
+</annotation>
