@@ -1,7 +1,7 @@
 # TeethDetector
 This is a teeth detector and dental age predictor based on TensorFlow.
 
-1: Data Preprocessing
+### Data preprocessing
 ```
 xml_to_csv.py: transform annotation information to data/train.csv
 generate_tf_record:transform data/train.csv and images information to data/train.record
