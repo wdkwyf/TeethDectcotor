@@ -1,13 +1,16 @@
 # TeethDetector
-基于TensorFlow目标检测的牙齿检测
+This is a teeth detector and dental age predictor based on TensorFlow.
+
+1: Data Preprocessing
 ```
-利用xml_to_csv.py将annotation里面的标注信息整合到data/train.csv
-再用generate_tf_record将data/train.csv与images里面的图片信息整合为data/train.record
+xml_to_csv.py: transform annotation information to data/train.csv
+generate_tf_record:transform data/train.csv and images information to data/train.record
 ```
 ### How to run
 ```
-使用批处理之前请更改相关文件路径
+1: Please modify related file path:
 run train.bat
 run eval.bat
-打开命令行进入项目根目录，执行命令 tensorboard --logdir=model
+2: Open terminal and "cd" to project's root directory,run command:
+tensorboard --logdir=model
 ```
